@@ -1,4 +1,13 @@
+# Terraform
+.terraform/
+.terraform.lock.hcl
 terraform.tfstate
 terraform.tfstate.backup
-.terraform.lock.hcl
-.terraform/
+crash.log
+
+# Sensitive files
+terraform.tfvars
+*.pem
+
+# System
+.DS_Store

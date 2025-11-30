@@ -89,7 +89,7 @@ Follow these steps to deploy the infrastructure from your local machine.
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/vaibhav208/wordpress-rds-monitoring.git
+git clone https://github.com/githubabhay2003/wordpress-rds-monitoring.git
 cd wordpress-rds-monitoring
 ```
 ### 2️⃣ Configure AWS Credentials
@@ -168,9 +168,18 @@ https://opensource.org/licenses/MIT
 
 ## 👤 Author
 
-**Vaibhav Sarkar**
+**Abhay Kumar Saini**
+
+🔹 GitHub: https://github.com/githubabhay2003  
+🔹 LinkedIn: https://www.linkedin.com/in/abhay-kumar-saini-571891264/
 
 ---
+
+## 🎥 Demo Video
+
+
+https://github.com/user-attachments/assets/d879b8f7-69a6-44ff-8bc6-2bf076ff51e4
+
 
 
 
